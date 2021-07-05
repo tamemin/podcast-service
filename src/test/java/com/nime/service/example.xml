@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><!--By accessing this feed you are warranting that you are using these feeds in accordance with the BBC's Terms of Use http://www.bbc.co.uk/usingthebbc/terms-of-use/. If you are using these feeds for business or commercial purposes you warrant that you have obtained the necessary licence from the BBC and that BBC services and content are made available strictly in line with the BBC's Distribution Policy-->
+    <channel>
+        <title>The Northern Bank Job</title>
+        <link>http://www.bbc.co.uk/programmes/m000tsjy</link>
+        <description>It was the biggest bank heist in British and Irish criminal history. Belfast writer Glenn Patterson
+            has unfinished business with the 2004 Northern Bank robbery.
+        </description>
+        <itunes:summary>It was the biggest bank heist in British and Irish criminal history. Belfast writer Glenn
+            Patterson has unfinished business with the 2004 Northern Bank robbery.
+        </itunes:summary>
+        <itunes:author>BBC Radio 4</itunes:author>
+        <itunes:owner>
+            <itunes:name>BBC</itunes:name>
+            <itunes:email>RadioMusic.Support@bbc.co.uk</itunes:email>
+        </itunes:owner>
+        <itunes:new-feed-url>https://podcasts.files.bbci.co.uk/m000tsjy.rss</itunes:new-feed-url>
+        <language>en</language>
+        <ppg:seriesDetails frequency="weekly" daysLive="-1"/>
+        <ppg:systemRef systemId="pid.brand" key="m000tsjy"/>
+        <ppg:systemRef systemId="pid.genre" key="C00017"/>
+        <ppg:systemRef systemId="pid.genre" key="C00045"/>
+        <ppg:network id="radio4" name="BBC Radio 4"/>
+        <image>
+            <url>http://ichef.bbci.co.uk/images/ic/3000x3000/p09fkgbx.jpg</url>
+            <title>The Northern Bank Job</title>
+            <link>http://www.bbc.co.uk/programmes/m000tsjy</link>
+        </image>
+        <itunes:image href="http://ichef.bbci.co.uk/images/ic/3000x3000/p09fkgbx.jpg"/>
+        <copyright>(C) BBC 2021</copyright>
+        <pubDate>Fri, 23 Apr 2021 13:41:00 +0000</pubDate>
+        <itunes:category text="Fiction">
+            <itunes:category text="Drama"/>
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <atom:link href="http://www.bbc.co.uk/programmes/m000tsjy/episodes/downloads.rss" rel="self"
+                   type="application/rss+xml"/>
+        <item>
+            <title>Episode Ten: This Country</title>
+            <description>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004, gangs
+                of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With family
+                members held hostage, the officials are instructed to remove cash from the vaults of Northern Bank
+                headquarters in Belfast city-centre and load it into the back of a van - not once, but twice - before
+                the van disappears into the night, along with more than Â£26.5 million in new and used notes. With the
+                finger of blame pointed at the IRA, the raid makes headlines around the world and sends shock-waves
+                through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Ten: This Country
+                So where did all the money go? And what went with it?
+
+                Written and presented by Glenn Patterson
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </description>
+            <itunes:subtitle>Belfast writer Glenn Patterson has unfinished business with the 2004 Northern Bank
+                robbery
+            </itunes:subtitle>
+            <itunes:summary>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004,
+                gangs of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With
+                family members held hostage, the officials are instructed to remove cash from the vaults of Northern
+                Bank headquarters in Belfast city-centre and load it into the back of a van - not once, but twice -
+                before the van disappears into the night, along with more than Â£26.5 million in new and used notes.
+                With the finger of blame pointed at the IRA, the raid makes headlines around the world and sends
+                shock-waves through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Ten: This Country
+                So where did all the money go? And what went with it?
+
+                Written and presented by Glenn Patterson
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </itunes:summary>
+            <pubDate>Fri, 23 Apr 2021 13:41:00 +0000</pubDate>
+            <itunes:duration>884</itunes:duration>
+            <enclosure
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkym8.mp3"
+                    length="14144000" type="audio/mpeg"/>
+            <ppg:enclosureLegacy
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkym8.mp3"
+                    length="14144000" type="audio/mpeg"/>
+            <ppg:enclosureSecure
+                    url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09fkym8.mp3"
+                    length="14144000" type="audio/mpeg"/>
+            <guid isPermaLink="false">urn:bbc:podcast:m000v3q8</guid>
+            <link>http://www.bbc.co.uk/programmes/m000v3q8</link>
+            <itunes:explicit>clean</itunes:explicit>
+            <media:content
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkym8.mp3"
+                    fileSize="14144000" type="audio/mpeg" medium="audio" expression="full" duration="884"/>
+            <itunes:author>BBC Radio 4</itunes:author>
+            <ppg:canonical>/programmes/m000v3q8</ppg:canonical>
+        </item>
+        <item>
+            <title>Episode Nine: Testimony</title>
+            <description>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004, gangs
+                of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With family
+                members held hostage, the officials are instructed to remove cash from the vaults of Northern Bank
+                headquarters in Belfast city-centre and load it into the back of a van - not once, but twice - before
+                the van disappears into the night, along with more than Â£26.5 million in new and used notes. With the
+                finger of blame pointed at the IRA, the raid makes headlines around the world and sends shock-waves
+                through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Nine: Testimony
+                When Glenn attends the trial of the only person charged in direct connection with the raid, he's struck
+                by what he hears in court and what he sees on TV that night
+
+                Written and presented by Glenn Patterson
+
+                Music: Phil Kieran
+                Actors: Louise Parker, Thomas Finnegan &amp; Conor O'Donnell
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </description>
+            <itunes:subtitle>Belfast writer Glenn Patterson has unfinished business with the 2004 Northern Bank
+                robbery
+            </itunes:subtitle>
+            <itunes:summary>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004,
+                gangs of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With
+                family members held hostage, the officials are instructed to remove cash from the vaults of Northern
+                Bank headquarters in Belfast city-centre and load it into the back of a van - not once, but twice -
+                before the van disappears into the night, along with more than Â£26.5 million in new and used notes.
+                With the finger of blame pointed at the IRA, the raid makes headlines around the world and sends
+                shock-waves through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Nine: Testimony
+                When Glenn attends the trial of the only person charged in direct connection with the raid, he's struck
+                by what he hears in court and what he sees on TV that night
+
+                Written and presented by Glenn Patterson
+
+                Music: Phil Kieran
+                Actors: Louise Parker, Thomas Finnegan &amp; Conor O'Donnell
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </itunes:summary>
+            <pubDate>Fri, 23 Apr 2021 13:36:00 +0000</pubDate>
+            <itunes:duration>926</itunes:duration>
+            <enclosure
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fky6f.mp3"
+                    length="14816000" type="audio/mpeg"/>
+            <ppg:enclosureLegacy
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fky6f.mp3"
+                    length="14816000" type="audio/mpeg"/>
+            <ppg:enclosureSecure
+                    url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09fky6f.mp3"
+                    length="14816000" type="audio/mpeg"/>
+            <guid isPermaLink="false">urn:bbc:podcast:m000v2wy</guid>
+            <link>http://www.bbc.co.uk/programmes/m000v2wy</link>
+            <itunes:explicit>clean</itunes:explicit>
+            <media:content
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fky6f.mp3"
+                    fileSize="14816000" type="audio/mpeg" medium="audio" expression="full" duration="926"/>
+            <itunes:author>BBC Radio 4</itunes:author>
+            <ppg:canonical>/programmes/m000v2wy</ppg:canonical>
+        </item>
+        <item>
+            <title>Episode Eight: See No Evil</title>
+            <description>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004, gangs
+                of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With family
+                members held hostage, the officials are instructed to remove cash from the vaults of Northern Bank
+                headquarters in Belfast city-centre and load it into the back of a van - not once, but twice - before
+                the van disappears into the night, along with more than Â£26.5 million in new and used notes. With the
+                finger of blame pointed at the IRA, the raid makes headlines around the world and sends shock-waves
+                through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Eight: See No Evil
+                Weeks after the robbery a man is murdered outside a packed Belfast bar but no witnesses are coming
+                forward
+
+
+                Written and presented by Glenn Patterson
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </description>
+            <itunes:subtitle>Belfast writer Glenn Patterson has unfinished business with the 2004 Northern Bank
+                robbery
+            </itunes:subtitle>
+            <itunes:summary>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004,
+                gangs of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With
+                family members held hostage, the officials are instructed to remove cash from the vaults of Northern
+                Bank headquarters in Belfast city-centre and load it into the back of a van - not once, but twice -
+                before the van disappears into the night, along with more than Â£26.5 million in new and used notes.
+                With the finger of blame pointed at the IRA, the raid makes headlines around the world and sends
+                shock-waves through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Eight: See No Evil
+                Weeks after the robbery a man is murdered outside a packed Belfast bar but no witnesses are coming
+                forward
+
+
+                Written and presented by Glenn Patterson
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </itunes:summary>
+            <pubDate>Fri, 23 Apr 2021 13:31:00 +0000</pubDate>
+            <itunes:duration>832</itunes:duration>
+            <enclosure
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkxp0.mp3"
+                    length="13312000" type="audio/mpeg"/>
+            <ppg:enclosureLegacy
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkxp0.mp3"
+                    length="13312000" type="audio/mpeg"/>
+            <ppg:enclosureSecure
+                    url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09fkxp0.mp3"
+                    length="13312000" type="audio/mpeg"/>
+            <guid isPermaLink="false">urn:bbc:podcast:m000v2q8</guid>
+            <link>http://www.bbc.co.uk/programmes/m000v2q8</link>
+            <itunes:explicit>clean</itunes:explicit>
+            <media:content
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkxp0.mp3"
+                    fileSize="13312000" type="audio/mpeg" medium="audio" expression="full" duration="832"/>
+            <itunes:author>BBC Radio 4</itunes:author>
+            <ppg:canonical>/programmes/m000v2q8</ppg:canonical>
+        </item>
+        <item>
+            <title>Episode Seven: Burning Embers</title>
+            <description>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004, gangs
+                of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With family
+                members held hostage, the officials are instructed to remove cash from the vaults of Northern Bank
+                headquarters in Belfast city-centre and load it into the back of a van - not once, but twice - before
+                the van disappears into the night, along with more than Â£26.5 million in new and used notes. With the
+                finger of blame pointed at the IRA, the raid makes headlines around the world and sends shock-waves
+                through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Seven: Burning Embers
+                Irish police follow a money laundering trail to County Cork, where someone is going to extreme lengths
+                to get the cash off their hands
+
+                Written and presented by Glenn Patterson
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </description>
+            <itunes:subtitle>Belfast writer Glenn Patterson has unfinished business with the 2004 Northern Bank
+                robbery
+            </itunes:subtitle>
+            <itunes:summary>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004,
+                gangs of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With
+                family members held hostage, the officials are instructed to remove cash from the vaults of Northern
+                Bank headquarters in Belfast city-centre and load it into the back of a van - not once, but twice -
+                before the van disappears into the night, along with more than Â£26.5 million in new and used notes.
+                With the finger of blame pointed at the IRA, the raid makes headlines around the world and sends
+                shock-waves through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Seven: Burning Embers
+                Irish police follow a money laundering trail to County Cork, where someone is going to extreme lengths
+                to get the cash off their hands
+
+                Written and presented by Glenn Patterson
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </itunes:summary>
+            <pubDate>Fri, 23 Apr 2021 13:27:00 +0000</pubDate>
+            <itunes:duration>833</itunes:duration>
+            <enclosure
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkx5f.mp3"
+                    length="13328000" type="audio/mpeg"/>
+            <ppg:enclosureLegacy
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkx5f.mp3"
+                    length="13328000" type="audio/mpeg"/>
+            <ppg:enclosureSecure
+                    url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09fkx5f.mp3"
+                    length="13328000" type="audio/mpeg"/>
+            <guid isPermaLink="false">urn:bbc:podcast:m000v2sj</guid>
+            <link>http://www.bbc.co.uk/programmes/m000v2sj</link>
+            <itunes:explicit>clean</itunes:explicit>
+            <media:content
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkx5f.mp3"
+                    fileSize="13328000" type="audio/mpeg" medium="audio" expression="full" duration="833"/>
+            <itunes:author>BBC Radio 4</itunes:author>
+            <ppg:canonical>/programmes/m000v2sj</ppg:canonical>
+        </item>
+        <item>
+            <title>Episode Six: The Mastermind</title>
+            <description>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004, gangs
+                of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With family
+                members held hostage, the officials are instructed to remove cash from the vaults of Northern Bank
+                headquarters in Belfast city-centre and load it into the back of a van - not once, but twice - before
+                the van disappears into the night, along with more than Â£26.5 million in new and used notes. With the
+                finger of blame pointed at the IRA, the raid makes headlines around the world and sends shock-waves
+                through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Six: The Mastermind
+                As news breaks of the robbery, along with a swirl of accusations and counter accusations, one politician
+                uses parliamentary privilege to name the individual he believes was responsible for its meticulous
+                planning.
+
+                Written and presented by Glenn Patterson
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </description>
+            <itunes:subtitle>Belfast writer Glenn Patterson has unfinished business with the 2004 Northern Bank
+                robbery
+            </itunes:subtitle>
+            <itunes:summary>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004,
+                gangs of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With
+                family members held hostage, the officials are instructed to remove cash from the vaults of Northern
+                Bank headquarters in Belfast city-centre and load it into the back of a van - not once, but twice -
+                before the van disappears into the night, along with more than Â£26.5 million in new and used notes.
+                With the finger of blame pointed at the IRA, the raid makes headlines around the world and sends
+                shock-waves through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Six: The Mastermind
+                As news breaks of the robbery, along with a swirl of accusations and counter accusations, one politician
+                uses parliamentary privilege to name the individual he believes was responsible for its meticulous
+                planning.
+
+                Written and presented by Glenn Patterson
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </itunes:summary>
+            <pubDate>Fri, 23 Apr 2021 13:24:00 +0000</pubDate>
+            <itunes:duration>844</itunes:duration>
+            <enclosure
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkwfl.mp3"
+                    length="13504000" type="audio/mpeg"/>
+            <ppg:enclosureLegacy
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkwfl.mp3"
+                    length="13504000" type="audio/mpeg"/>
+            <ppg:enclosureSecure
+                    url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09fkwfl.mp3"
+                    length="13504000" type="audio/mpeg"/>
+            <guid isPermaLink="false">urn:bbc:podcast:m000v1nq</guid>
+            <link>http://www.bbc.co.uk/programmes/m000v1nq</link>
+            <itunes:explicit>clean</itunes:explicit>
+            <media:content
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkwfl.mp3"
+                    fileSize="13504000" type="audio/mpeg" medium="audio" expression="full" duration="844"/>
+            <itunes:author>BBC Radio 4</itunes:author>
+            <ppg:canonical>/programmes/m000v1nq</ppg:canonical>
+        </item>
+        <item>
+            <title>Episode Five: Cash by the Trolley Load</title>
+            <description>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004, gangs
+                of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With family
+                members held hostage, the officials are instructed to remove cash from the vaults of Northern Bank
+                headquarters in Belfast city-centre and load it into the back of a van - not once, but twice - before
+                the van disappears into the night, along with more than Â£26.5 million in new and used notes. With the
+                finger of blame pointed at the IRA, the raid makes headlines around the world and sends shock-waves
+                through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Five: Cash by the Trolley Load
+                A white van reverses up a narrow side street beside the bank, until its tailgate comes level with the
+                bullion bay doors...
+
+
+                Presenter: Glenn Patterson
+
+                Actors: Louise Parker, Conor O'Donnell &amp; Thomas Finnegan
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+
+                Producer: Conor Garrett
+            </description>
+            <itunes:subtitle>Belfast writer Glenn Patterson has unfinished business with the 2004 Northern Bank
+                robbery
+            </itunes:subtitle>
+            <itunes:summary>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004,
+                gangs of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With
+                family members held hostage, the officials are instructed to remove cash from the vaults of Northern
+                Bank headquarters in Belfast city-centre and load it into the back of a van - not once, but twice -
+                before the van disappears into the night, along with more than Â£26.5 million in new and used notes.
+                With the finger of blame pointed at the IRA, the raid makes headlines around the world and sends
+                shock-waves through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Five: Cash by the Trolley Load
+                A white van reverses up a narrow side street beside the bank, until its tailgate comes level with the
+                bullion bay doors...
+
+
+                Presenter: Glenn Patterson
+
+                Actors: Louise Parker, Conor O'Donnell &amp; Thomas Finnegan
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+
+                Producer: Conor Garrett
+            </itunes:summary>
+            <pubDate>Fri, 23 Apr 2021 13:19:00 +0000</pubDate>
+            <itunes:duration>796</itunes:duration>
+            <enclosure
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkvpt.mp3"
+                    length="12736000" type="audio/mpeg"/>
+            <ppg:enclosureLegacy
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkvpt.mp3"
+                    length="12736000" type="audio/mpeg"/>
+            <ppg:enclosureSecure
+                    url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09fkvpt.mp3"
+                    length="12736000" type="audio/mpeg"/>
+            <guid isPermaLink="false">urn:bbc:podcast:m000twtp</guid>
+            <link>http://www.bbc.co.uk/programmes/m000twtp</link>
+            <itunes:explicit>clean</itunes:explicit>
+            <media:content
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkvpt.mp3"
+                    fileSize="12736000" type="audio/mpeg" medium="audio" expression="full" duration="796"/>
+            <itunes:author>BBC Radio 4</itunes:author>
+            <ppg:canonical>/programmes/m000twtp</ppg:canonical>
+        </item>
+        <item>
+            <title>Episode Four: The Drop</title>
+            <description>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004, gangs
+                of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With family
+                members held hostage, the officials are instructed to remove cash from the vaults of Northern Bank
+                headquarters in Belfast city-centre and load it into the back of a van - not once, but twice - before
+                the van disappears into the night, along with more than Â£26.5 million in new and used notes. With the
+                finger of blame pointed at the IRA, the raid makes headlines around the world and sends shock-waves
+                through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Four: The Drop
+                Chris leaves the bank with a bag over his shoulder...
+
+                Presenter: Glenn Patterson
+
+                Actors: Louise Parker, Conor O'Donnell &amp; Thomas Finnegan
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </description>
+            <itunes:subtitle>Belfast writer Glenn Patterson has unfinished business with the 2004 Northern Bank
+                robbery
+            </itunes:subtitle>
+            <itunes:summary>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004,
+                gangs of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With
+                family members held hostage, the officials are instructed to remove cash from the vaults of Northern
+                Bank headquarters in Belfast city-centre and load it into the back of a van - not once, but twice -
+                before the van disappears into the night, along with more than Â£26.5 million in new and used notes.
+                With the finger of blame pointed at the IRA, the raid makes headlines around the world and sends
+                shock-waves through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Four: The Drop
+                Chris leaves the bank with a bag over his shoulder...
+
+                Presenter: Glenn Patterson
+
+                Actors: Louise Parker, Conor O'Donnell &amp; Thomas Finnegan
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </itunes:summary>
+            <pubDate>Fri, 23 Apr 2021 13:15:00 +0000</pubDate>
+            <itunes:duration>807</itunes:duration>
+            <enclosure
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkv54.mp3"
+                    length="12912000" type="audio/mpeg"/>
+            <ppg:enclosureLegacy
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkv54.mp3"
+                    length="12912000" type="audio/mpeg"/>
+            <ppg:enclosureSecure
+                    url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09fkv54.mp3"
+                    length="12912000" type="audio/mpeg"/>
+            <guid isPermaLink="false">urn:bbc:podcast:m000twh5</guid>
+            <link>http://www.bbc.co.uk/programmes/m000twh5</link>
+            <itunes:explicit>clean</itunes:explicit>
+            <media:content
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkv54.mp3"
+                    fileSize="12912000" type="audio/mpeg" medium="audio" expression="full" duration="807"/>
+            <itunes:author>BBC Radio 4</itunes:author>
+            <ppg:canonical>/programmes/m000twh5</ppg:canonical>
+        </item>
+        <item>
+            <title>Episode Three: Progressing Matters</title>
+            <description>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004, gangs
+                of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With family
+                members held hostage, the officials are instructed to remove cash from the vaults of Northern Bank
+                headquarters in Belfast city-centre and load it into the back of a van - not once, but twice - before
+                the van disappears into the night, along with more than Â£26.5 million in new and used notes. With the
+                finger of blame pointed at the IRA, the raid makes headlines around the world and sends shock-waves
+                through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Three: Progressing Matters
+                As Kevin and Chris make their way down to the basement cash-centre safe, the masked men holding Kyran
+                McMullan hostage ask if she'd like some light refreshments...
+
+
+                Presenter: Glenn Patterson
+
+                Actors: Louise Parker, Conor O'Donnell &amp; Thomas Finnegan
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </description>
+            <itunes:subtitle>Belfast writer Glenn Patterson has unfinished business with the 2004 Northern Bank
+                robbery
+            </itunes:subtitle>
+            <itunes:summary>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004,
+                gangs of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With
+                family members held hostage, the officials are instructed to remove cash from the vaults of Northern
+                Bank headquarters in Belfast city-centre and load it into the back of a van - not once, but twice -
+                before the van disappears into the night, along with more than Â£26.5 million in new and used notes.
+                With the finger of blame pointed at the IRA, the raid makes headlines around the world and sends
+                shock-waves through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Three: Progressing Matters
+                As Kevin and Chris make their way down to the basement cash-centre safe, the masked men holding Kyran
+                McMullan hostage ask if she'd like some light refreshments...
+
+
+                Presenter: Glenn Patterson
+
+                Actors: Louise Parker, Conor O'Donnell &amp; Thomas Finnegan
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </itunes:summary>
+            <pubDate>Fri, 23 Apr 2021 13:11:00 +0000</pubDate>
+            <itunes:duration>827</itunes:duration>
+            <enclosure
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fktk7.mp3"
+                    length="13232000" type="audio/mpeg"/>
+            <ppg:enclosureLegacy
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fktk7.mp3"
+                    length="13232000" type="audio/mpeg"/>
+            <ppg:enclosureSecure
+                    url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09fktk7.mp3"
+                    length="13232000" type="audio/mpeg"/>
+            <guid isPermaLink="false">urn:bbc:podcast:m000tsjw</guid>
+            <link>http://www.bbc.co.uk/programmes/m000tsjw</link>
+            <itunes:explicit>clean</itunes:explicit>
+            <media:content
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fktk7.mp3"
+                    fileSize="13232000" type="audio/mpeg" medium="audio" expression="full" duration="827"/>
+            <itunes:author>BBC Radio 4</itunes:author>
+            <ppg:canonical>/programmes/m000tsjw</ppg:canonical>
+        </item>
+        <item>
+            <title>Episode Two: Killing Time</title>
+            <description>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004, gangs
+                of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With family
+                members held hostage, the officials are instructed to remove cash from the vaults of Northern Bank
+                headquarters in Belfast city-centre and load it into the back of a van - not once, but twice - before
+                the van disappears into the night, along with more than Â£26.5 million in new and used notes. With the
+                finger of blame pointed at the IRA, the raid makes headlines around the world and sends shock-waves
+                through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Two: Killing Time
+                After a year of so called 'tiger kidnappings' all over Northern Ireland, negotiations continue to try to
+                restore the Stormont power-sharing government, as Northern Bank employees Chris Ward and Kevin McMullan
+                prepare to start the most extraordinary working shift of their lives...
+
+                Presenter: Glenn Patterson
+
+                Actors: Louise Parker, Conor O'Donnell &amp; Thomas Finnegan
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </description>
+            <itunes:subtitle>Belfast writer Glenn Patterson has unfinished business with the 2004 Northern Bank
+                robbery
+            </itunes:subtitle>
+            <itunes:summary>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004,
+                gangs of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With
+                family members held hostage, the officials are instructed to remove cash from the vaults of Northern
+                Bank headquarters in Belfast city-centre and load it into the back of a van - not once, but twice -
+                before the van disappears into the night, along with more than Â£26.5 million in new and used notes.
+                With the finger of blame pointed at the IRA, the raid makes headlines around the world and sends
+                shock-waves through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode Two: Killing Time
+                After a year of so called 'tiger kidnappings' all over Northern Ireland, negotiations continue to try to
+                restore the Stormont power-sharing government, as Northern Bank employees Chris Ward and Kevin McMullan
+                prepare to start the most extraordinary working shift of their lives...
+
+                Presenter: Glenn Patterson
+
+                Actors: Louise Parker, Conor O'Donnell &amp; Thomas Finnegan
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </itunes:summary>
+            <pubDate>Fri, 23 Apr 2021 13:06:00 +0000</pubDate>
+            <itunes:duration>903</itunes:duration>
+            <enclosure
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fksn7.mp3"
+                    length="14448000" type="audio/mpeg"/>
+            <ppg:enclosureLegacy
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fksn7.mp3"
+                    length="14448000" type="audio/mpeg"/>
+            <ppg:enclosureSecure
+                    url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09fksn7.mp3"
+                    length="14448000" type="audio/mpeg"/>
+            <guid isPermaLink="false">urn:bbc:podcast:m000tt8j</guid>
+            <link>http://www.bbc.co.uk/programmes/m000tt8j</link>
+            <itunes:explicit>clean</itunes:explicit>
+            <media:content
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fksn7.mp3"
+                    fileSize="14448000" type="audio/mpeg" medium="audio" expression="full" duration="903"/>
+            <itunes:author>BBC Radio 4</itunes:author>
+            <ppg:canonical>/programmes/m000tt8j</ppg:canonical>
+        </item>
+        <item>
+            <title>Episode One: Unexpected Visitors</title>
+            <description>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004, gangs
+                of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With family
+                members held hostage, the officials are instructed to remove cash from the vaults of Northern Bank
+                headquarters in Belfast city-centre and load it into the back of a van - not once, but twice - before
+                the van disappears into the night, along with more than Â£26.5 million in new and used notes. With the
+                finger of blame pointed at the IRA, the raid makes headlines around the world and sends shock-waves
+                through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode One: Unexpected Visitors
+                Northern Bank employee Chris Ward is watching TV with his dad when there's a knock at the door. Kevin
+                McMullan is at home with his wife Kyran when Police come to tell them there's been a road traffic
+                accident. But all is not as it seems...
+
+                Presenter: Glenn Patterson
+
+                Actors: Louise Parker, Conor O'Donnell &amp; Thomas Finnegan
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </description>
+            <itunes:subtitle>Belfast writer Glenn Patterson has unfinished business with the 2004 Northern Bank
+                robbery
+            </itunes:subtitle>
+            <itunes:summary>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004,
+                gangs of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With
+                family members held hostage, the officials are instructed to remove cash from the vaults of Northern
+                Bank headquarters in Belfast city-centre and load it into the back of a van - not once, but twice -
+                before the van disappears into the night, along with more than Â£26.5 million in new and used notes.
+                With the finger of blame pointed at the IRA, the raid makes headlines around the world and sends
+                shock-waves through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Episode One: Unexpected Visitors
+                Northern Bank employee Chris Ward is watching TV with his dad when there's a knock at the door. Kevin
+                McMullan is at home with his wife Kyran when Police come to tell them there's been a road traffic
+                accident. But all is not as it seems...
+
+                Presenter: Glenn Patterson
+
+                Actors: Louise Parker, Conor O'Donnell &amp; Thomas Finnegan
+
+                Music: Phil Kieran
+                Executive Editor: Andy Martin
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </itunes:summary>
+            <pubDate>Fri, 23 Apr 2021 12:58:00 +0000</pubDate>
+            <itunes:duration>890</itunes:duration>
+            <enclosure
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkrb2.mp3"
+                    length="14240000" type="audio/mpeg"/>
+            <ppg:enclosureLegacy
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkrb2.mp3"
+                    length="14240000" type="audio/mpeg"/>
+            <ppg:enclosureSecure
+                    url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09fkrb2.mp3"
+                    length="14240000" type="audio/mpeg"/>
+            <guid isPermaLink="false">urn:bbc:podcast:m000tvlr</guid>
+            <link>http://www.bbc.co.uk/programmes/m000tvlr</link>
+            <itunes:explicit>clean</itunes:explicit>
+            <media:content
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkrb2.mp3"
+                    fileSize="14240000" type="audio/mpeg" medium="audio" expression="full" duration="890"/>
+            <itunes:author>BBC Radio 4</itunes:author>
+            <ppg:canonical>/programmes/m000tvlr</ppg:canonical>
+        </item>
+        <item>
+            <title>Introducing The Northern Bank Job</title>
+            <description>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004, gangs
+                of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With family
+                members held hostage, the officials are instructed to remove cash from the vaults of Northern Bank
+                headquarters in Belfast city-centre and load it into the back of a van - not once, but twice - before
+                the van disappears into the night, along with more than Â£26.5 million in new and used notes. With the
+                finger of blame pointed at the IRA, the raid makes headlines around the world and sends shock-waves
+                through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Presenter: Glenn Patterson
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </description>
+            <itunes:subtitle>Belfast writer Glenn Patterson has unfinished business with the 2004 Northern Bank
+                robbery
+            </itunes:subtitle>
+            <itunes:summary>It was the biggest bank robbery in British and Irish history. Days before Christmas 2004,
+                gangs of armed men take over the homes of two Northern Bank officials in Belfast and County Down. With
+                family members held hostage, the officials are instructed to remove cash from the vaults of Northern
+                Bank headquarters in Belfast city-centre and load it into the back of a van - not once, but twice -
+                before the van disappears into the night, along with more than Â£26.5 million in new and used notes.
+                With the finger of blame pointed at the IRA, the raid makes headlines around the world and sends
+                shock-waves through an already faltering Northern Ireland peace process.
+
+                Through dramatized court testimonies, new interviews and archive, Glenn Patterson takes us into the
+                unfolding story of a meticulously planned heist and its chaotic aftermath. Military precision giving way
+                to soap powder boxes stuffed with cash. The bickering of politicians against the silence of the man said
+                to be the robberyâs mastermind. There are even rumours that proceeds from the robbery are to be used
+                as a pension fund for IRA members as it prepares to disarm and disband.
+
+                Glenn Patterson has unfinished business with the Northern Bank Job. In fact, he thinks all of Northern
+                Ireland does.
+
+                Presenter: Glenn Patterson
+                Producer: Conor Garrett
+
+                A BBC Northern Ireland production for Radio 4
+            </itunes:summary>
+            <pubDate>Fri, 23 Apr 2021 11:30:00 +0000</pubDate>
+            <itunes:duration>167</itunes:duration>
+            <enclosure
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkg61.mp3"
+                    length="2672000" type="audio/mpeg"/>
+            <ppg:enclosureLegacy
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkg61.mp3"
+                    length="2672000" type="audio/mpeg"/>
+            <ppg:enclosureSecure
+                    url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09fkg61.mp3"
+                    length="2672000" type="audio/mpeg"/>
+            <guid isPermaLink="false">urn:bbc:podcast:p09fkh8g</guid>
+            <link>http://www.bbc.co.uk/programmes/p09fkh8g</link>
+            <itunes:explicit>clean</itunes:explicit>
+            <media:content
+                    url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09fkg61.mp3"
+                    fileSize="2672000" type="audio/mpeg" medium="audio" expression="full" duration="167"/>
+            <itunes:author>BBC Radio 4</itunes:author>
+            <ppg:canonical>/programmes/p09fkh8g</ppg:canonical>
+        </item>
+    </channel>
+</rss>
